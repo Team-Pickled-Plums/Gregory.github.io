@@ -1,11 +1,11 @@
-## Week 5 Milestone
-#Objectives
+# Week 5 Milestone
+##Objectives
 - Code that generates .ics files
 - Sketch of user interface
 
-# Code that generates .ics files
+## Code that generates .ics files
 
-# Sketch of user interface
+## Sketch of user interface
 
 ## Team Members
 - Christopher Won
