@@ -9,16 +9,16 @@
 
 ## Overview
 Gregory is an event planner to create ics calendar files for clients to use in their calendar application of their
- choice. It's name is a reference to (Pope Gregory XIII)[https://en.wikipedia.org/wiki/Pope_Gregory_XIII] who is tha
+ choice. It's name is a reference to [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) who is tha
   namesake of the Gregorian calendar.
  
 ## Milestones
 
 ### Week 5 Milestone
 **Completed Objectives:**
-* Created (project repository)[https://github.com/Team-Pickled-Plums]
+* Created [project repository](https://github.com/Team-Pickled-Plums)
 * Tested ics file with Google Calendar
-* Created (software engineering process document)[https://docs.google.com/document/d/1Yua-Onoxcz0KLDCkWDWWIjIUD_rV3oQIrFKp3TF4Syo/edit?usp=sharing]
+* Created [software engineering process document](https://docs.google.com/document/d/1Yua-Onoxcz0KLDCkWDWWIjIUD_rV3oQIrFKp3TF4Syo/edit?usp=sharing)
 
 ### Week 7 Milestone
 **Completed Objectives:**
