@@ -35,9 +35,13 @@ Gregory is an event planner to create ics calendar files for clients to use in t
 
 ### Week 9 Milestone
 **Completed Objectives:**
-* Test Driven Development
+* Test Driven Development (i.e. can't have Feb 30, Days over 31, etc.)
 * User menu with checks
 * Created plan for recurring events
+
+![](images/home.png)
+
+![](images/form.png)
 
 ## Team Members
 - Christopher Won
