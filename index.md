@@ -44,9 +44,21 @@ Gregory is an event planner to create ics calendar files for clients to use in t
 ![](images/form.png)
 
 ### Week 11 Milestone
+**Completed Objectives:**
+* Priority
+* Classification
+* RSVP
+
+![](images/landing2.png)
+
+![](images/form2.png)
+
+### Week 13 Milestone
 
 ### Test Driven Development Stories
-
+* Testing on Google Calendar displayed times 10 hours ahead of what was indicated on the ics generator form. It was
+ deduced that the form read time with the UTC time zone which is 10 hours ahead of Hawaii Standard Time.
+ 
 ## Team Members
 - Christopher Won
 - Matt Schultz
