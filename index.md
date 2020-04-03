@@ -71,6 +71,7 @@ such as “except in December”).
 * RSVP (3.2.17)
 * Summary (3.8.1.12) 
 * Location (3.8.1.7)
+* Geographic Position (3.8.1.6)
 
 ![](images/landing2.png)
 
