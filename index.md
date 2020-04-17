@@ -100,15 +100,15 @@ such as “except in December”).
 * Case: Import generated ics file imported into Google Calendar. Result: displayed correct time.
 * Case: Import generated ics file imported into Outlook. Result: displayed correct time.
 
-* Case: Prevent backwards time intervals (March 30th to Jan 31th). Result: pass *
+* Case: Prevent backwards time intervals (March 30th to Jan 31th). Result: pass 
 
-* Case: Required event name. Result: pass *
+* Case: Required event name. Result: pass 
 
-* Case: Only able to select/type valid dates. Result: able to type invalid dates (Feb 31st). *
+* Case: Only able to select/type valid dates. Result: able to type invalid dates (Feb 31st). 
 
-* Case: Display error message for identical starting times. Result: does not display error message. *
+* Case: Display error message for identical starting times. Result: does not display error message. 
 
-* Case: Display error message for dates already passed. Result: does not display error message. *
+* Case: Display error message for dates already passed. Result: does not display error message. 
  
 ## Team Members
 - Christopher Won
