@@ -68,7 +68,6 @@ such as “except in December”).
 **Completed Objectives:**
 * Priority (3.8.1.9)
 * Classification (3.8.1.3) 
-* RSVP (3.2.17)
 * Summary (3.8.1.12) 
 * Location (3.8.1.7)
 * Geographic Position (3.8.1.6)
@@ -78,10 +77,28 @@ such as “except in December”).
 ![](images/form2.png)
 
 ### Week 13 Milestone
+**Completed Objectives:**
+* RSVP (3.2.17)
+* Time zone identifier (3.8.3.1)
+* Resources (3.8.1.10)
+* Recurring Events (basic)
+
+![](images/form3.png)
+
+### Week 15 Milestone
 
 ### Test Driven Development Stories
-* Testing on Google Calendar displayed times 10 hours ahead of what was indicated on the ics generator form. It was
- deduced that the form read time with the UTC time zone which is 10 hours ahead of Hawaii Standard Time.
+* Case: RSVP one person. Result: pass.
+* Case: RVSP two people. Result: failed.
+***Adjusted string parsing***
+* Case: RSVP one person. Result: pass.
+* Case: RVSP two people. Result: pass.
+
+* Case: Import generated ics file imported into Google Calendar. Result: displayed incorrect time.
+* Case: Import generated ics file imported into Outlook. Result: displayed incorrect time.
+***Implemented TZID***
+* Case: Import generated ics file imported into Google Calendar. Result: displayed correct time.
+* Case: Import generated ics file imported into Outlook. Result: displayed correct time.
  
 ## Team Members
 - Christopher Won
