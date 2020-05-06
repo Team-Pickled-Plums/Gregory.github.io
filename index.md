@@ -91,7 +91,9 @@ such as “except in December”).
 ### Week 15 Milestone
 * Sent-by (3.2.18)
 * Bug fixes and UI changes
+
 ![](images/final-home.png)
+s
 ![](images/final-form.png)
 
 ### Test Driven Development
