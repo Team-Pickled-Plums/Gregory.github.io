@@ -13,15 +13,15 @@ Gregory is an event planner to create ics calendar files for clients to use in t
   namesake of the Gregorian calendar.
   
 ## Final Functionality
-* Version (section 3.7.4 of RFC 5545) 
+* Version (section 3.7.4 of RFC 5545)
 * Classification (3.8.1.3). Note this is a way of users designating events as
 public (default), private, or confidential.
 * Geographic Position (3.8.1.6)
 * Location (3.8.1.7)
 * Priority (3.8.1.9)
-* Summary (3.8.1.12) 
-* DTSTART (3.8.2.4) 
-* DTEND (3.8.2.2) 
+* Summary (3.8.1.12)
+* DTSTART (3.8.2.4)
+* DTEND (3.8.2.2)
 * Time zone identifier (3.8.3.1)
 * RSVP (3.2.17)
 * Sent-by (3.2.18)
@@ -59,9 +59,9 @@ such as “except in December”).
 * Test Driven Development (i.e. can't have Feb 30, Days over 31, etc.)
 * User menu with checks
 * Created plan for recurring events
-* Version (section 3.7.4 of RFC 5545) 
-* DTSTART (3.8.2.4) 
-* DTEND (3.8.2.2) 
+* Version (section 3.7.4 of RFC 5545)
+* DTSTART (3.8.2.4)
+* DTEND (3.8.2.2)
 
 ![](images/home.png)
 
@@ -71,7 +71,7 @@ such as “except in December”).
 **Completed Objectives:**
 * Priority (3.8.1.9)
 * Classification (3.8.1.3) 
-* Summary (3.8.1.12) 
+* Summary (3.8.1.12)
 * Location (3.8.1.7)
 * Geographic Position (3.8.1.6)
 
