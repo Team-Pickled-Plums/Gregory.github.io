@@ -93,7 +93,7 @@ such as “except in December”).
 * Bug fixes and UI changes
 
 ![](images/final-home.png)
-s
+
 ![](images/final-form.png)
 
 ### Test Driven Development
