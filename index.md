@@ -13,7 +13,7 @@ Gregory is an event planner to create ics calendar files for clients to use in t
   namesake of the Gregorian calendar.
   
 ## Final Functionality
-Version (section 3.7.4 of RFC 5545) 
+* Version (section 3.7.4 of RFC 5545) 
 * Classification (3.8.1.3). Note this is a way of users designating events as
 public (default), private, or confidential.
 * Geographic Position (3.8.1.6)
@@ -59,6 +59,9 @@ such as “except in December”).
 * Test Driven Development (i.e. can't have Feb 30, Days over 31, etc.)
 * User menu with checks
 * Created plan for recurring events
+* Version (section 3.7.4 of RFC 5545) 
+* DTSTART (3.8.2.4) 
+* DTEND (3.8.2.2) 
 
 ![](images/home.png)
 
@@ -81,24 +84,20 @@ such as “except in December”).
 * RSVP (3.2.17)
 * Time zone identifier (3.8.3.1)
 * Resources (3.8.1.10)
-* Recurring Events (basic)
+* Recurring Events (daily/weekly/monthly/yearly)
 
 ![](images/form3.png)
 
 ### Week 15 Milestone
+* Sent-by (3.2.18)
+* Bug fixes and UI changes
+![](images/final-home.png)
+![](images/final-form.png)
 
-### Test Driven Development Stories
-* Case: RSVP one person. Result: pass.
-* Case: RVSP two people. Result: failed.
-***Adjusted string parsing***
-* Case: RSVP one person. Result: pass.
-* Case: RVSP two people. Result: pass.
-
-* Case: Import generated ics file imported into Google Calendar. Result: displayed incorrect time.
-* Case: Import generated ics file imported into Outlook. Result: displayed incorrect time.
-***Implemented TZID***
-* Case: Import generated ics file imported into Google Calendar. Result: displayed correct time.
-* Case: Import generated ics file imported into Outlook. Result: displayed correct time.
+### Test Driven Development
+Test cases and results were recorded on a Google Spreadsheet. Feature considered complete when it became "green
+" (passed tests).
+![](images/sheet.png)
  
 ## Team Members
 - Christopher Won
