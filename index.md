@@ -98,6 +98,7 @@ such as “except in December”).
 Test cases and results were recorded on a Google Spreadsheet. Feature considered complete when it became "green
 " (passed tests).
 ![](images/sheet.png)
+[Copy on Google Sheets](https://docs.google.com/spreadsheets/d/1axURlA72vCW02nA5L3CGadLq1L5MWW_A7TIhEtFIpCU/edit?usp=sharing)
  
 ## Team Members
 - Christopher Won
